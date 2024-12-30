@@ -1,11 +1,3 @@
-<!DOCTYPE HTML>
-<html lang=”pt-br”>
-<head>
-  <meta charset=”UTF-8”>
-
-
-  <title><h1>Profile Github & Contact </h1></title>
-
 <!The brabo das skill > 
 
 <strong> <h2>My Skills</h2></strong>
@@ -79,8 +71,3 @@
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-</head>
-<body>
-</body>
-</html>

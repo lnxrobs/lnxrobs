@@ -6,8 +6,7 @@ No momento trabalho e estudo, porém estou buscando novas oportunidades.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java, JavaScript, Python, Batch & HTML 
-</p>
+  🦄 Linguagens: Java, JavaScript, Python, Batch, HTML & CSS </p>
 
 <p align="left">
   💼 Ferramentas: Git, Apache, Docker, Amazon AWS, Linux, Windows Server & VMware </p>

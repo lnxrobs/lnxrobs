@@ -10,8 +10,7 @@ No momento trabalho e estudo, porém estou buscando novas oportunidades.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Apache, Docker, Amazon AWS, Linux & Windows Server
-</p>
+  💼 Ferramentas: Git, Apache, Docker, Amazon AWS, Linux, Windows Server & VMware </p>
 
 <p align="left">
   <a href="mailto:robsondariva87@gmail.com?subject=Ol%C3%A1,+Robson!!" title="Gmail">
